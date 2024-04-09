@@ -1,0 +1,10 @@
+.main-container-place-order{
+    background-color: #9b7ee4 !important;
+    min-height: 100vh !important;
+    padding-bottom: 30px;
+    background-image: none !important;
+}
+
+.sign-up-form{
+    height: 380px !important;
+}

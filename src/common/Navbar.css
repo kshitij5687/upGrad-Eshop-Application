@@ -1,0 +1,19 @@
+.search{
+    margin-right: 50px;
+}
+.home{
+    margin-right: 15px !important;
+    background-color: white !important;
+    color: #9b7ee4 !important;
+}
+.add-products{
+    margin-right: 15px !important;
+    background-color: white !important;
+    color: #9b7ee4 !important;
+
+}
+.logout{
+    margin-right: 15px !important;
+    border-color: #ffffff !important;
+    color: #ffff !important;
+}

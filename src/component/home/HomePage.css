@@ -1,0 +1,7 @@
+.background-container {
+    background-image: url('../login/background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+}

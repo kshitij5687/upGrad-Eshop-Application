@@ -1,0 +1,17 @@
+.manage-form-container{
+    background-color: #fff;
+    height: 75vh;
+    max-width: 82% !important;
+    margin-left: 120px;
+    padding: 15px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.footer-manage-products{
+    margin-top: 25px !important;
+    margin-bottom: -25px !important;
+    padding-top: 10px !important;
+}
+.modify-heading{
+    color: white !important;
+}

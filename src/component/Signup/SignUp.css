@@ -1,0 +1,45 @@
+.signup-input {
+    margin-top: 13px !important;
+}
+.main-container{
+    border-radius: 20px !important;
+}
+.paperStyle {
+    padding: 20px;
+    width: 400px;
+    margin: 20px auto;
+    background-color: #fbfbfb !important;
+    border-radius: 20px !important;
+    margin-left: 200px !important;
+}
+
+.avatarStyle {
+    background-color: #9b7ee4 !important;
+    margin-top: 22px !important;
+    margin-right: 13px;
+}
+
+.btnstyle {
+    margin-top: 25px !important;
+    background-color: #a183ed !important;
+    color: #fff !important;
+    padding: 10px !important;
+    font-size: 15px !important;
+    
+}
+
+.signup-page-container {
+    background-size: cover;
+    min-height: 92vh;
+    padding: 20px;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px !important;
+    margin-top: -20px !important;
+    color: #9b7ee4;
+    margin-bottom: -15px !important;
+}

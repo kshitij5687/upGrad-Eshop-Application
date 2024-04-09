@@ -1,0 +1,37 @@
+.login-page-container {
+    background-image: url('./background.png') !important; /* Replace 'path/to/your/image.jpg' with the actual path to your image */
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 0vh; /* Adjust height as needed */
+}
+.email-input{
+    margin-bottom: 15px !important;
+}
+
+.sign-in-button{
+    margin-bottom: 15px !important;
+}
+.sign-in-container{
+    margin-left: 200px !important;
+    margin-top: 130px !important;
+    border-radius: 20px !important;
+    background-color: #fbfbfb !important;
+}
+.container{
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    background-color: #fff !important;
+    margin-bottom: 5px;
+    margin-top: -10px;
+    margin-left: 130px !important;
+    margin-right: 130px !important;
+
+}
+.heading-sign-in{
+    color: #9b7ee4 !important;
+    margin-left: -250px;
+}

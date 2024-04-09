@@ -1,0 +1,100 @@
+.main-container{
+    background-color: #e8e0fe !important;
+    background-size: cover !important;
+    min-height: 100vh !important;
+    padding-bottom: 30px;
+}
+.heading{
+    margin-top: 0px;
+    padding: 30px;
+}
+.paragrapgh{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card{
+    height: 575px;
+    max-width: 76%;
+    margin-top: 60px;
+    margin-left: 175px;
+}
+
+.border {
+    border: 1px solid white !important;
+    padding: 10px !important; 
+    margin-top: 20px;
+    border-radius: 15px;
+    margin: 25px;
+    padding-bottom: 25px !important;
+}
+.name-details{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 55px;
+    font-size: 35px !important;
+}
+
+.description-details{
+    margin-left: 30px !important;
+    margin-top: 25px !important;
+    font-size: 18px !important;
+}
+
+.price-details{
+    margin-left: 30px !important;
+    margin-top: 15px !important;
+    font-size: 18px !important;
+}
+.availableItems-details{
+    margin-left: 30px !important;
+    margin-top: 15px !important;
+    font-size: 18px !important;
+}
+.manufacturer-details{
+    margin-left: 30px !important;
+    margin-top: 15px !important;
+    font-size: 18px !important;
+}
+.category-details{
+    margin-left: 30px !important;
+    margin-top: 15px !important;
+    font-size: 18px !important;
+}
+
+.quantity-paragraph{
+    position: relative;
+    margin-top: -10px !important;
+    font-size: 18px !important;
+    margin-left: 50px !important;
+}
+.main-quantity {
+    position: relative;
+    margin-top: -5px; /* Adjust this value as needed */
+    margin-right: 285px; /* Adjust this value as needed */
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.qunatity-button {
+    margin-left: 10px !important;
+    background-color: #fff !important;
+    color: #9b7ee4 !important;
+}
+.quantity-para{
+    padding-left: 15px !important;
+}
+.limit-exceeded {
+    position: absolute;
+    top: 48px; /* Adjust this value as needed */
+    right: -5px; /* Adjust this value as needed */
+    color: rgb(219, 1, 1);
+}
+.place-order{
+    margin-top: -65px !important;
+    margin-left: 360px !important;
+    background-color: #fff !important;
+    color: #9b7ee4 !important;
+}
